@@ -1,0 +1,23 @@
+# Robots.txt for Ataullah Al Mahmud Portfolio
+# https://benzin-iota.vercel.app/
+
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /about.html
+Allow: /vision.html
+Allow: /projects.html
+Allow: /publications.html
+Allow: /skills.html
+Allow: /journey.html
+Allow: /certificates.html
+Allow: /contact.html
+Allow: /style.css
+Allow: /main.js
+Allow: /universe.js
+Allow: /favicon.svg
+Allow: /sitemap.xml
+
+Disallow: /*?*
+
+Sitemap: https://benzin-iota.vercel.app/sitemap.xml
